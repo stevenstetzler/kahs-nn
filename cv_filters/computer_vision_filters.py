@@ -97,20 +97,20 @@ def faces_lbp(img, detector, scale_factor=1.05, min_neighbors=5):
 
 
 def main():
-	# Video demonstrations
-	capture_video()
-	capture_video(gray)
-	capture_video(sobel_vertical)
-	capture_video(sobel_horizontal)
-	capture_video(sobel_both)
-	capture_video(edges)
-	capture_video(faces_harr, face_detector_harr, scale_factor=1.50)
-	capture_video(faces_lbp, face_detector_lbp)
+    # Video demonstrations
+    capture_video()
+    capture_video(gray)
+    capture_video(sobel_vertical)
+    capture_video(sobel_horizontal)
+    capture_video(sobel_both)
+    capture_video(edges)
+    capture_video(faces_harr, face_detector_harr, scale_factor=1.50)
+    capture_video(faces_lbp, face_detector_lbp)
 
-	# Phone demonstrations
-	capture_video_phone(edges)
-	capture_video_phone(faces_lbp, face_detector_lbp, scale_factor=1.50)
+    # Phone demonstrations
+    capture_video_phone(edges)
+    capture_video_phone(faces_lbp, face_detector_lbp, scale_factor=1.50)
 
 
 if __name__ == "__main__":
-	main()
+    main()
