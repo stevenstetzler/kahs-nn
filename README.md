@@ -20,6 +20,7 @@ We have a Jupyter notebook explaining how to use a Convolutional Neural Network 
 
 # Requirements
 - [Python 3.6](https://www.python.org/downloads/)
+- [Jupyter](http://jupyter.org/)
 
 **Neural Networks**
 - [Keras](https://keras.io/)
@@ -31,5 +32,5 @@ We have a Jupyter notebook explaining how to use a Convolutional Neural Network 
 
 # Installation
 
-`pip install keras tensorflow opencv-python scikit-image`
+`pip install jupyter keras tensorflow opencv-python scikit-image`
 
