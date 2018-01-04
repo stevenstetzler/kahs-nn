@@ -1,5 +1,5 @@
 # kahs-nn
-A neural network and computer vision workshop for students at Kutztown Area High School
+A Python, data analysis, neural network, and computer vision workshop for students at Kutztown Area High School
 
 # Intro to Python
 
