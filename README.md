@@ -7,13 +7,18 @@ You can find resources for learning the syntax and basics of python in `intro_py
 
 # Demos
 
-## Data Anaalysis
-Several demos can be found in `intro_python/demos` showing how Python is used in science for data analysis.
+## Data Analysis
+Several demos can be found in `intro_python/demos` showing how Python is used in science for data analysis. We have a Jupyter notebook on performing text analysis in `intro_python/demos/text_analysis/moby_dick.ipynb`. Jordan provides some of his simulation code from his Physics senior thesis at Tufts University in `intro_python/demos/simulations`, along with a demonstration for using Python to work with Excel files in `intro_python/demos/excel_demo`.
 
 ## Computer Vision
+
+Most of this work is based on [Connely Barnes'](http://www.cs.virginia.edu/~connelly/) course at the University of Virginia, [CS 4501 - Introduction to Computer Vision](http://www.cs.virginia.edu/~connelly/class/2017/intro_vision/).
+
+
+### Filters and Image Processing
 We have a Jupyter notebook explaining basic image processing with filters to make edge and face detectors in `cv_filters/computer_vision_filters.ipynb`.
 
-## Neural Networks
+### Neural Networks
 We have a Jupyter notebook explaining how to train and use a neural network in Keras to classify handwritten digits from the MNIST dataset, found in `digits/digit_classifier.ipynb`.
 
 We have a Jupyter notebook explaining how to use a Convolutional Neural Network to classify cat and dog images in `cats_or_dogs/cat_or_dog.ipynb`.
