@@ -3,7 +3,7 @@ A Python, data analysis, neural network, and computer vision workshop for studen
 
 # Intro to Python
 
-You can find resources for learning the syntax and basics of python in `intro_python`.
+You can find resources for learning the syntax and basics of python in `intro_python/syntax/intro_python.ipynb`.
 
 # Demos
 
