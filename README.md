@@ -23,6 +23,11 @@ We have a Jupyter notebook explaining how to train and use a neural network in K
 
 We have a Jupyter notebook explaining how to use a Convolutional Neural Network to classify cat and dog images in `cats_or_dogs/cat_or_dog.ipynb`.
 
+## Additional Resources
+- **3Blue1Brown**, the YouTube channel, has produced an _**excellent**_ video series explaining neural networks ituitively. He also goes into some of the math behind why these neural networks work. [Part 1](https://www.youtube.com/watch?v=aircAruvnKk), [Part 2](https://www.youtube.com/watch?v=IHZwWFHWa-w), [Part 3](https://www.youtube.com/watch?v=Ilg3gGewQ5U), [Part 3.a](https://www.youtube.com/watch?v=tIeHLnjs5U8). 
+- **Welch Labs**, another YouTube channel, produced a 15 part series on computer vision and machine learning called **Learning to See**: [Playlist](https://www.youtube.com/watch?v=i8D90DkCLhI&list=PLiaHhY2iBX9ihLasvE8BKnS2Xg8AhY6iV)
+
+
 # Requirements
 - [Python 3.6](https://www.python.org/downloads/)
 - [Jupyter](http://jupyter.org/)
